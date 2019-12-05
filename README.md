@@ -1,2 +1,5 @@
-# Stack
-Stack Data Structure Code
+//# Stack
+//Stack Data Structure Code
+void main()
+{
+}
