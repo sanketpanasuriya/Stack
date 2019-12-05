@@ -78,7 +78,6 @@ void main()
 
 
 		}
+		getch();
 	}
-	getch();
-
 }
